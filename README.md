@@ -35,3 +35,38 @@ This project performs a comprehensive analysis of selected Saudi stocks over the
 
 ---
 
+
+## Plots / Visualizations
+
+### 1. Stock Prices (5 Years)
+![Stock Prices 5 Year](plots/Stock Prices 5 Year.png)  
+Shows the adjusted closing prices for all selected Saudi stocks over the past 5 years.
+
+---
+
+### 2. Optimal Portfolio Allocation
+![Optimal Portfolio allocation](plots/Optimal Portfolio allocation.png)  
+Visual representation of the weights of each stock in the optimal portfolio based on Sharpe ratio maximization.
+
+---
+
+### 3. Correlation Heatmap
+![Correlation Heatmap](plots/correlation_heatmap.png)  
+Displays the correlation matrix of daily returns for all selected stocks.  
+- Red → positive correlation  
+- Blue → negative correlation  
+- White → weak or no correlation
+
+---
+
+### 4. Monte Carlo Simulation - Portfolio Returns Distribution
+![Monte Carlo Simulation - Portfolio Returns Distribution](plots/Monte Carlo Simulation - Portfolio Returns Distribution.png)  
+Distribution of simulated portfolio returns based on Monte Carlo simulations (historical data).
+
+---
+
+### 5. Monte Carlo Simulation - 1 Year Portfolio Returns Distribution
+![Monte Carlo Simulation - 1 year Portfolio Returns Distribution](plots/Monte Carlo Simulation - 1 year Portfolio Returns Distribution.png)  
+Distribution of simulated portfolio returns for 1-year ahead projection using Monte Carlo simulation.
+
+
