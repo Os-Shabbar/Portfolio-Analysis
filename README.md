@@ -34,21 +34,23 @@ This project performs a comprehensive analysis of selected Saudi stocks over the
 | 2280.SR | Almarai |
 
 ---
-### Analysis Result of the Saudi stocks:
-#Expected Annual Return: 34.29%
-#Expected Annual Volatility: 22.15%
-#Sharpe Ratio: 1.458
+## Analysis Result of the Saudi stocks:
+# Expected Annual Return: 34.29%
+
+# Expected Annual Volatility: 22.15%
+
+# Sharpe Ratio: 1.458
 
 -Expected Annual Return (34.29%): This is the mean return the optimized portfolio is expected to generate in a year based on historical data. It’s relatively high, but possible in emerging markets like Saudi Arabia, which can have periods of strong growth.
 -Expected Annual Volatility (22.15%): This measures the risk (standard deviation of returns). A 22% volatility is moderate-to-high, which aligns with a high-growth portfolio.
 -Sharpe Ratio (1.458): This is a measure of risk-adjusted return. Values above 1 are generally considered very good. A Sharpe > 1.4 suggests the portfolio has strong returns relative to its risk.
 
 ##Monte Carlo Risk Metrics Result:
-95% VaR: -4.33%
-95% CVaR: -12.92%
-Maximum Simulated Return: 210.89%
-Minimum Simulated Return: -39.96%
-Probability of Positive Return: 92.8%
+# 95% VaR: -4.33%
+# 95% CVaR: -12.92%
+# Maximum Simulated Return: 210.89%
+# Minimum Simulated Return: -39.96%
+# Probability of Positive Return: 92.8%
 
 - 95% VaR (-4.33%): There is a 5% chance that the portfolio will lose more than 4.33% over one year. This shows that extreme losses are limited but possible.
 - 95% CVaR (-12.92%): If losses exceed the 95% VaR threshold, the expected average loss is -12.92%. This gives insight into the “tail risk.”
