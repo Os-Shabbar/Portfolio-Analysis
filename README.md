@@ -1,5 +1,5 @@
 # Portfolio-Analysis
-Portfolio Optimaization Using Python 
+portfolio optimization Using Python 
 # Saudi Stock Portfolio Analysis and Optimization
 
 ## Overview
